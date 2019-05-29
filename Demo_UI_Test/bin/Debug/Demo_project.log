@@ -1,0 +1,9 @@
+2019-05-21 22:50:41 INFO : Starting Test: NavigateToGoogle
+2019-05-21 22:50:41 INFO : Navigated To Vacation Rentals Page
+2019-05-21 22:50:41 INFO : Filled Out And Sumbmitted For Searching Vacation Rentals
+2019-05-21 22:50:41 INFO : Verifying the Expected & Actual
+2019-05-21 23:02:40 INFO : Starting Test: Test_To_Be_Failed
+2019-05-22 06:33:52 INFO : Starting Test: NavigateToGoogle
+2019-05-22 06:33:52 INFO : Verifying the Expected & Actual
+2019-05-22 06:35:20 INFO : Starting Test: NavigateToGoogle
+2019-05-22 06:35:20 INFO : Verifying the Expected & Actual
